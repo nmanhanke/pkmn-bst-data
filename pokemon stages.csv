@@ -1,0 +1,917 @@
+dex #,Pokemon,Stage
+1,Bulbasaur,basic
+2,Ivysaur,stage 1
+3,Venusaur,stage 2
+3,Venusaur (Mega Venusaur),mega
+4,Charmander,basic
+5,Charmeleon,stage 1
+6,Charizard,stage 2
+6,Charizard (Mega Charizard X),mega
+6,Charizard (Mega Charizard Y),mega
+7,Squirtle,basic
+8,Wartortle,stage 1
+9,Blastoise,stage 2
+9,Blastoise (Mega Blastoise),mega
+10,Caterpie,basic
+11,Metapod,stage 1
+12,Butterfree,stage 2
+13,Weedle,basic
+14,Kakuna,stage 1
+15,Beedrill,stage 2
+15,Beedrill (Mega Beedrill),mega
+16,Pidgey,basic
+17,Pidgeotto,stage 1
+18,Pidgeot,stage 2
+18,Pidgeot (Mega Pidgeot),mega
+19,Rattata,basic
+19,Rattata (Alolan Rattata),basic
+20,Raticate,stage 1
+20,Raticate (Alolan Raticate),stage 1
+21,Spearow,basic
+22,Fearow,stage 1
+23,Ekans,basic
+24,Arbok,stage 1
+25,Pikachu,basic
+25,Pikachu (Partner Pikachu),basic
+26,Raichu,stage 1
+26,Raichu (Alolan Raichu),stage 1
+27,Sandshrew,basic
+27,Sandshrew (Alolan Sandshrew),basic
+28,Sandslash,stage 1
+28,Sandslash (Alolan Sandslash),stage 1
+29,Nidoran♀,basic
+30,Nidorina,stage 1
+31,Nidoqueen,stage 2
+32,Nidoran♂,basic
+33,Nidorino,stage 1
+34,Nidoking,stage 2
+35,Clefairy,basic
+36,Clefable,stage 1
+37,Vulpix,basic
+37,Vulpix (Alolan Vulpix),basic
+38,Ninetales,stage 1
+38,Ninetales (Alolan Ninetales),stage 1
+39,Jigglypuff,basic
+40,Wigglytuff,stage 1
+41,Zubat,basic
+42,Golbat,stage 1
+43,Oddish,basic
+44,Gloom,stage 1
+45,Vileplume,stage 2
+46,Paras,basic
+47,Parasect,stage 1
+48,Venonat,basic
+49,Venomoth,stage 1
+50,Diglett,basic
+50,Diglett (Alolan Diglett),basic
+51,Dugtrio,stage 1
+51,Dugtrio (Alolan Dugtrio),stage 1
+52,Meowth,basic
+52,Meowth (Alolan Meowth),basic
+53,Persian,stage 1
+53,Persian (Alolan Persian),stage 1
+54,Psyduck,basic
+55,Golduck,stage 1
+56,Mankey,basic
+57,Primeape,stage 1
+58,Growlithe,basic
+59,Arcanine,stage 1
+60,Poliwag,basic
+61,Poliwhirl,stage 1
+62,Poliwrath,stage 2
+63,Abra,basic
+64,Kadabra,stage 1
+65,Alakazam,stage 2
+65,Alakazam (Mega Alakazam),mega
+66,Machop,basic
+67,Machoke,stage 1
+68,Machamp,stage 2
+69,Bellsprout,basic
+70,Weepinbell,stage 1
+71,Victreebel,stage 2
+72,Tentacool,basic
+73,Tentacruel,stage 1
+74,Geodude,basic
+74,Geodude (Alolan Geodude),basic
+75,Graveler,stage 1
+75,Graveler (Alolan Graveler),stage 1
+76,Golem,stage 2
+76,Golem (Alolan Golem),stage 2
+77,Ponyta,basic
+78,Rapidash,stage 1
+79,Slowpoke,basic
+80,Slowbro,stage 1
+80,Slowbro (Mega Slowbro),mega
+81,Magnemite,basic
+82,Magneton,stage 1
+83,Farfetch'd,basic
+84,Doduo,basic
+85,Dodrio,stage 1
+86,Seel,basic
+87,Dewgong,stage 1
+88,Grimer,basic
+88,Grimer (Alolan Grimer),basic
+89,Muk,stage 1
+89,Muk (Alolan Muk),stage 1
+90,Shellder,basic
+91,Cloyster,stage 1
+92,Gastly,basic
+93,Haunter,stage 1
+94,Gengar,stage 2
+94,Gengar (Mega Gengar),mega
+95,Onix,basic
+96,Drowzee,basic
+97,Hypno,stage 1
+98,Krabby,basic
+99,Kingler,stage 1
+100,Voltorb,basic
+101,Electrode,stage 1
+102,Exeggcute,basic
+103,Exeggutor,stage 1
+103,Exeggutor (Alolan Exeggutor),stage 1
+104,Cubone,basic
+105,Marowak,stage 1
+105,Marowak (Alolan Marowak),stage 1
+106,Hitmonlee,basic
+107,Hitmonchan,basic
+108,Lickitung,basic
+109,Koffing,basic
+110,Weezing,stage 1
+111,Rhyhorn,basic
+112,Rhydon,stage 1
+113,Chansey,basic
+114,Tangela,basic
+115,Kangaskhan,basic
+115,Kangaskhan (Mega Kangaskhan),mega
+116,Horsea,basic
+117,Seadra,stage 1
+118,Goldeen,basic
+119,Seaking,stage 1
+120,Staryu,basic
+121,Starmie,stage 1
+122,Mr. Mime,basic
+123,Scyther,basic
+124,Jynx,basic
+125,Electabuzz,basic
+126,Magmar,basic
+127,Pinsir,basic
+127,Pinsir (Mega Pinsir),mega
+128,Tauros,basic
+129,Magikarp,basic
+130,Gyarados,stage 1
+130,Gyarados (Mega Gyarados),mega
+131,Lapras,basic
+132,Ditto,basic
+133,Eevee,basic
+133,Eevee (Partner Eevee),basic
+134,Vaporeon,stage 1
+135,Jolteon,stage 1
+136,Flareon,stage 1
+137,Porygon,basic
+138,Omanyte,basic
+139,Omastar,stage 1
+140,Kabuto,basic
+141,Kabutops,stage 1
+142,Aerodactyl,basic
+142,Aerodactyl (Mega Aerodactyl),mega
+143,Snorlax,basic
+144,Articuno,legendary
+145,Zapdos,legendary
+146,Moltres,legendary
+147,Dratini,basic
+148,Dragonair,stage 1
+149,Dragonite,stage 2
+150,Mewtwo,legendary
+150,Mewtwo (Mega Mewtwo X),mega
+150,Mewtwo (Mega Mewtwo Y),mega
+151,Mew,legendary
+152,Chikorita,basic
+153,Bayleef,stage 1
+154,Meganium,stage 2
+155,Cyndaquil,basic
+156,Quilava,stage 1
+157,Typhlosion,stage 2
+158,Totodile,basic
+159,Croconaw,stage 1
+160,Feraligatr,stage 2
+161,Sentret,basic
+162,Furret,stage 1
+163,Hoothoot,basic
+164,Noctowl,stage 1
+165,Ledyba,basic
+166,Ledian,stage 1
+167,Spinarak,basic
+168,Ariados,stage 1
+169,Crobat,stage 2
+170,Chinchou,basic
+171,Lanturn,stage 1
+172,Pichu,baby
+173,Cleffa,baby
+174,Igglybuff,baby
+175,Togepi,baby
+176,Togetic,basic
+177,Natu,basic
+178,Xatu,stage 1
+179,Mareep,basic
+180,Flaaffy,stage 1
+181,Ampharos,stage 2
+181,Ampharos (Mega Ampharos),mega
+182,Bellossom,stage 2
+183,Marill,basic
+184,Azumarill,stage 1
+185,Sudowoodo,basic
+186,Politoed,stage 2
+187,Hoppip,basic
+188,Skiploom,stage 1
+189,Jumpluff,stage 2
+190,Aipom,basic
+191,Sunkern,stage 1
+192,Sunflora,stage 2
+193,Yanma,basic
+194,Wooper,basic
+195,Quagsire,stage 1
+196,Espeon,stage 1
+197,Umbreon,stage 1
+198,Murkrow,basic
+199,Slowking,stage 1
+200,Misdreavus,basic
+201,Unown,basic
+202,Wobbuffet,basic
+203,Girafarig,basic
+204,Pineco,basic
+205,Forretress,stage 1
+206,Dunsparce,basic
+207,Gligar,basic
+208,Steelix,stage 1
+208,Steelix (Mega Steelix),mega
+209,Snubbull,basic
+210,Granbull,stage 1
+211,Qwilfish,basic
+212,Scizor,stage 1
+212,Scizor (Mega Scizor),mega
+213,Shuckle,basic
+214,Heracross,basic
+214,Heracross (Mega Heracross),mega
+215,Sneasel,basic
+216,Teddiursa,basic
+217,Ursaring,stage 1
+218,Slugma,basic
+219,Magcargo,stage 1
+220,Swinub,basic
+221,Piloswine,stage 1
+222,Corsola,basic
+223,Remoraid,basic
+224,Octillery,stage 1
+225,Delibird,basic
+226,Mantine,basic
+227,Skarmory,basic
+228,Houndour,basic
+229,Houndoom,stage 1
+229,Houndoom (Mega Houndoom),mega
+230,Kingdra,stage 2
+231,Phanpy,basic
+232,Donphan,stage 1
+233,Porygon2,stage 1
+234,Stantler,basic
+235,Smeargle,basic
+236,Tyrogue,baby
+237,Hitmontop,basic
+238,Smoochum,baby
+239,Elekid,baby
+240,Magby,baby
+241,Miltank,basic
+242,Blissey,stage 1
+243,Raikou,legendary
+244,Entei,legendary
+245,Suicune,legendary
+246,Larvitar,basic
+247,Pupitar,stage 1
+248,Tyranitar,stage 2
+248,Tyranitar (Mega Tyranitar),mega
+249,Lugia,legendary
+250,Ho-Oh,legendary
+251,Celebi,legendary
+252,Treecko,basic
+253,Grovyle,stage 1
+254,Sceptile,stage 2
+254,Sceptile (Mega Sceptile),mega
+255,Torchic,basic
+256,Combusken,stage 1
+257,Blaziken,stage 2
+257,Blaziken (Mega Blaziken),mega
+258,Mudkip,basic
+259,Marshtomp,stage 1
+260,Swampert,stage 2
+260,Swampert (Mega Swampert),mega
+261,Poochyena,basic
+262,Mightyena,stage 1
+263,Zigzagoon,basic
+264,Linoone,stage 1
+265,Wurmple,basic
+266,Silcoon,stage 1
+267,Beautifly,stage 2
+268,Cascoon,stage 1
+269,Dustox,stage 2
+270,Lotad,basic
+271,Lombre,stage 1
+272,Ludicolo,stage 2
+273,Seedot,basic
+274,Nuzleaf,stage 1
+275,Shiftry,stage 2
+276,Taillow,basic
+277,Swellow,stage 1
+278,Wingull,basic
+279,Pelipper,stage 1
+280,Ralts,basic
+281,Kirlia,stage 1
+282,Gardevoir,stage 2
+282,Gardevoir (Mega Gardevoir),mega
+283,Surskit,basic
+284,Masquerain,stage 1
+285,Shroomish,basic
+286,Breloom,stage 1
+287,Slakoth,basic
+288,Vigoroth,stage 1
+289,Slaking,stage 2
+290,Nincada,basic
+291,Ninjask,stage 1
+292,Shedinja,stage 1
+293,Whismur,basic
+294,Loudred,stage 1
+295,Exploud,stage 2
+296,Makuhita,basic
+297,Hariyama,stage 1
+298,Azurill,baby
+299,Nosepass,basic
+300,Skitty,basic
+301,Delcatty,stage 1
+302,Sableye,basic
+302,Sableye (Mega Sableye),mega
+303,Mawile,basic
+303,Mawile (Mega Mawile),mega
+304,Aron,basic
+305,Lairon,stage 1
+306,Aggron,stage 2
+306,Aggron (Mega Aggron),mega
+307,Meditite,basic
+308,Medicham,stage 1
+308,Medicham (Mega Medicham),mega
+309,Electrike,basic
+310,Manectric,stage 1
+310,Manectric (Mega Manectric),mega
+311,Plusle,basic
+312,Minun,basic
+313,Volbeat,basic
+314,Illumise,basic
+315,Roselia,basic
+316,Gulpin,basic
+317,Swalot,stage 1
+318,Carvanha,basic
+319,Sharpedo,stage 1
+319,Sharpedo (Mega Sharpedo),mega
+320,Wailmer,basic
+321,Wailord,stage 1
+322,Numel,basic
+323,Camerupt,stage 1
+323,Camerupt (Mega Camerupt),mega
+324,Torkoal,basic
+325,Spoink,basic
+326,Grumpig,stage 1
+327,Spinda,basic
+328,Trapinch,basic
+329,Vibrava,stage 1
+330,Flygon,stage 2
+331,Cacnea,basic
+332,Cacturne,stage 1
+333,Swablu,basic
+334,Altaria,stage 1
+334,Altaria (Mega Altaria),mega
+335,Zangoose,basic
+336,Seviper,basic
+337,Lunatone,basic
+338,Solrock,basic
+339,Barboach,basic
+340,Whiscash,stage 1
+341,Corphish,basic
+342,Crawdaunt,stage 1
+343,Baltoy,basic
+344,Claydol,stage 1
+345,Lileep,basic
+346,Cradily,stage 1
+347,Anorith,basic
+348,Armaldo,stage 1
+349,Feebas,basic
+350,Milotic,stage 1
+351,Castform,basic
+352,Kecleon,basic
+353,Shuppet,basic
+354,Banette,stage 1
+354,Banette (Mega Banette),mega
+355,Duskull,basic
+356,Dusclops,stage 1
+357,Tropius,basic
+358,Chimecho,basic
+359,Absol,basic
+359,Absol (Mega Absol),mega
+360,Wynaut,baby
+361,Snorunt,basic
+362,Glalie,stage 1
+362,Glalie (Mega Glalie),mega
+363,Spheal,basic
+364,Sealeo,stage 1
+365,Walrein,stage 2
+366,Clamperl,basic
+367,Huntail,stage 1
+368,Gorebyss,stage 1
+369,Relicanth,basic
+370,Luvdisc,basic
+371,Bagon,basic
+372,Shelgon,stage 1
+373,Salamence,stage 2
+373,Salamence (Mega Salamence),mega
+374,Beldum,basic
+375,Metang,stage 1
+376,Metagross,stage 2
+376,Metagross (Mega Metagross),mega
+377,Regirock,legendary
+378,Regice,legendary
+379,Registeel,legendary
+380,Latias,legendary
+380,Latias (Mega Latias),mega
+381,Latios,legendary
+381,Latios (Mega Latios),mega
+382,Kyogre,legendary
+382,Kyogre (Primal Kyogre),mega
+383,Groudon,legendary
+383,Groudon (Primal Groudon),mega
+384,Rayquaza,legendary
+384,Rayquaza (Mega Rayquaza),mega
+385,Jirachi,legendary
+386,Deoxys (Normal Forme),legendary
+386,Deoxys (Attack Forme),legendary
+386,Deoxys (Defense Forme),legendary
+386,Deoxys (Speed Forme),legendary
+387,Turtwig,basic
+388,Grotle,stage 1
+389,Torterra,stage 2
+390,Chimchar,basic
+391,Monferno,stage 1
+392,Infernape,stage 2
+393,Piplup,basic
+394,Prinplup,stage 1
+395,Empoleon,stage 2
+396,Starly,basic
+397,Staravia,stage 1
+398,Staraptor,stage 2
+399,Bidoof,basic
+400,Bibarel,stage 1
+401,Kricketot,basic
+402,Kricketune,stage 1
+403,Shinx,basic
+404,Luxio,stage 1
+405,Luxray,stage 2
+406,Budew,baby
+407,Roserade,stage 1
+408,Cranidos,basic
+409,Rampardos,stage 1
+410,Shieldon,basic
+411,Bastiodon,stage 1
+412,Burmy,basic
+413,Wormadam (Plant Cloak),stage 1
+413,Wormadam (Sandy Cloak),stage 1
+413,Wormadam (Trash Cloak),stage 1
+414,Mothim,stage 1
+415,Combee,basic
+416,Vespiquen,stage 1
+417,Pachirisu,basic
+418,Buizel,basic
+419,Floatzel,stage 1
+420,Cherubi,basic
+421,Cherrim,stage 1
+422,Shellos,basic
+423,Gastrodon,stage 1
+424,Ambipom,stage 1
+425,Drifloon,basic
+426,Drifblim,stage 1
+427,Buneary,basic
+428,Lopunny,stage 1
+428,Lopunny (Mega Lopunny),mega
+429,Mismagius,stage 1
+430,Honchkrow,stage 1
+431,Glameow,basic
+432,Purugly,stage 1
+433,Chingling,baby
+434,Stunky,basic
+435,Skuntank,stage 1
+436,Bronzor,basic
+437,Bronzong,stage 1
+438,Bonsly,baby
+439,Mime Jr.,baby
+440,Happiny,baby
+441,Chatot,basic
+442,Spiritomb,basic
+443,Gible,basic
+444,Gabite,stage 1
+445,Garchomp,stage 2
+445,Garchomp (Mega Garchomp),mega
+446,Munchlax,baby
+447,Riolu,baby
+448,Lucario,basic
+448,Lucario (Mega Lucario),mega
+449,Hippopotas,basic
+450,Hippowdon,stage 1
+451,Skorupi,basic
+452,Drapion,stage 1
+453,Croagunk,basic
+454,Toxicroak,stage 1
+455,Carnivine,basic
+456,Finneon,basic
+457,Lumineon,stage 1
+458,Mantyke,baby
+459,Snover,basic
+460,Abomasnow,stage 1
+460,Abomasnow (Mega Abomasnow),mega
+461,Weavile,stage 1
+462,Magnezone,stage 2
+463,Lickilicky,stage 1
+464,Rhyperior,stage 2
+465,Tangrowth,stage 1
+466,Electivire,stage 1
+467,Magmortar,stage 1
+468,Togekiss,stage 1
+469,Yanmega,stage 1
+470,Leafeon,stage 1
+471,Glaceon,stage 1
+472,Gliscor,stage 1
+473,Mamoswine,stage 2
+474,Porygon-Z,stage 2
+475,Gallade,stage 2
+475,Gallade (Mega Gallade),mega
+476,Probopass,stage 1
+477,Dusknoir,stage 2
+478,Froslass,stage 1
+479,Rotom,basic
+479,Rotom (Heat Rotom),basic
+479,Rotom (Wash Rotom),basic
+479,Rotom (Frost Rotom),basic
+479,Rotom (Fan Rotom),basic
+479,Rotom (Mow Rotom),basic
+480,Uxie,legendary
+481,Mesprit,legendary
+482,Azelf,legendary
+483,Dialga,legendary
+484,Palkia,legendary
+485,Heatran,legendary
+486,Regigigas,legendary
+487,Giratina (Altered Forme),legendary
+487,Giratina (Origin Forme),legendary
+488,Cresselia,legendary
+489,Phione,legendary
+490,Manaphy,legendary
+491,Darkrai,legendary
+492,Shaymin (Land Forme),legendary
+492,Shaymin (Sky Forme),legendary
+493,Arceus,legendary
+494,Victini,legendary
+495,Snivy,basic
+496,Servine,stage 1
+497,Serperior,stage 2
+498,Tepig,basic
+499,Pignite,stage 1
+500,Emboar,stage 2
+501,Oshawott,basic
+502,Dewott,stage 1
+503,Samurott,stage 2
+504,Patrat,basic
+505,Watchog,stage 1
+506,Lillipup,basic
+507,Herdier,stage 1
+508,Stoutland,stage 2
+509,Purrloin,basic
+510,Liepard,stage 1
+511,Pansage,basic
+512,Simisage,stage 1
+513,Pansear,basic
+514,Simisear,stage 1
+515,Panpour,basic
+516,Simipour,stage 1
+517,Munna,basic
+518,Musharna,stage 1
+519,Pidove,basic
+520,Tranquill,stage 1
+521,Unfezant,stage 2
+522,Blitzle,basic
+523,Zebstrika,stage 1
+524,Roggenrola,basic
+525,Boldore,stage 1
+526,Gigalith,stage 2
+527,Woobat,basic
+528,Swoobat,stage 1
+529,Drilbur,basic
+530,Excadrill,stage 1
+531,Audino,basic
+531,Audino (Mega Audino),mega
+532,Timburr,basic
+533,Gurdurr,stage 1
+534,Conkeldurr,stage 2
+535,Tympole,basic
+536,Palpitoad,stage 1
+537,Seismitoad,stage 2
+538,Throh,basic
+539,Sawk,basic
+540,Sewaddle,basic
+541,Swadloon,stage 1
+542,Leavanny,stage 2
+543,Venipede,basic
+544,Whirlipede,stage 1
+545,Scolipede,stage 2
+546,Cottonee,basic
+547,Whimsicott,stage 1
+548,Petilil,basic
+549,Lilligant,stage 1
+550,Basculin,basic
+551,Sandile,basic
+552,Krokorok,stage 1
+553,Krookodile,stage 2
+554,Darumaka,basic
+555,Darmanitan (Standard Mode),stage 1
+555,Darmanitan (Zen Mode),stage 2
+556,Maractus,basic
+557,Dwebble,basic
+558,Crustle,stage 1
+559,Scraggy,basic
+560,Scrafty,stage 1
+561,Sigilyph,basic
+562,Yamask,basic
+563,Cofagrigus,stage 1
+564,Tirtouga,basic
+565,Carracosta,stage 1
+566,Archen,basic
+567,Archeops,stage 1
+568,Trubbish,basic
+569,Garbodor,stage 1
+570,Zorua,basic
+571,Zoroark,stage 1
+572,Minccino,basic
+573,Cinccino,stage 1
+574,Gothita,basic
+575,Gothorita,stage 1
+576,Gothitelle,stage 2
+577,Solosis,basic
+578,Duosion,stage 1
+579,Reuniclus,stage 2
+580,Ducklett,basic
+581,Swanna,stage 1
+582,Vanillite,basic
+583,Vanillish,stage 1
+584,Vanilluxe,stage 2
+585,Deerling,basic
+586,Sawsbuck,stage 1
+587,Emolga,basic
+588,Karrablast,basic
+589,Escavalier,stage 1
+590,Foongus,basic
+591,Amoonguss,stage 1
+592,Frillish,basic
+593,Jellicent,stage 1
+594,Alomomola,basic
+595,Joltik,basic
+596,Galvantula,stage 1
+597,Ferroseed,basic
+598,Ferrothorn,stage 1
+599,Klink,basic
+600,Klang,stage 1
+601,Klinklang,stage 2
+602,Tynamo,basic
+603,Eelektrik,stage 1
+604,Eelektross,stage 2
+605,Elgyem,basic
+606,Beheeyem,stage 1
+607,Litwick,basic
+608,Lampent,stage 1
+609,Chandelure,stage 2
+610,Axew,basic
+611,Fraxure,stage 1
+612,Haxorus,stage 2
+613,Cubchoo,basic
+614,Beartic,stage 1
+615,Cryogonal,basic
+616,Shelmet,basic
+617,Accelgor,stage 1
+618,Stunfisk,basic
+619,Mienfoo,basic
+620,Mienshao,stage 1
+621,Druddigon,basic
+622,Golett,basic
+623,Golurk,stage 1
+624,Pawniard,basic
+625,Bisharp,stage 1
+626,Bouffalant,basic
+627,Rufflet,basic
+628,Braviary,stage 1
+629,Vullaby,basic
+630,Mandibuzz,stage 1
+631,Heatmor,basic
+632,Durant,basic
+633,Deino,basic
+634,Zweilous,stage 1
+635,Hydreigon,stage 2
+636,Larvesta,basic
+637,Volcarona,stage 1
+638,Cobalion,legendary
+639,Terrakion,legendary
+640,Virizion,legendary
+641,Tornadus (Incarnate Forme),legendary
+641,Tornadus (Therian Forme),legendary
+642,Thundurus (Incarnate Forme),legendary
+642,Thundurus (Therian Forme),legendary
+643,Reshiram,legendary
+644,Zekrom,legendary
+645,Landorus (Incarnate Forme),legendary
+645,Landorus (Therian Forme),legendary
+646,Kyurem (Normal Kyurem),legendary
+646,Kyurem (Black Kyurem),legendary
+646,Kyurem (White Kyurem),legendary
+647,Keldeo,legendary
+648,Meloetta (Aria Forme),legendary
+648,Meloetta (Pirouette Forme),legendary
+649,Genesect,legendary
+650,Chespin,basic
+651,Quilladin,stage 1
+652,Chesnaught,stage 2
+653,Fennekin,basic
+654,Braixen,stage 1
+655,Delphox,stage 2
+656,Froakie,basic
+657,Frogadier,stage 1
+658,Greninja,stage 2
+658,Greninja (Ash-Greninja),stage 2
+659,Bunnelby,basic
+660,Diggersby,stage 1
+661,Fletchling,basic
+662,Fletchinder,stage 1
+663,Talonflame,stage 2
+664,Scatterbug,basic
+665,Spewpa,stage 1
+666,Vivillon,stage 2
+667,Litleo,basic
+668,Pyroar,stage 1
+669,Flabébé,basic
+670,Floette,stage 1
+671,Florges,stage 2
+672,Skiddo,basic
+673,Gogoat,stage 1
+674,Pancham,basic
+675,Pangoro,stage 1
+676,Furfrou,basic
+677,Espurr,basic
+678,Meowstic,stage 1
+679,Honedge,basic
+680,Doublade,stage 1
+681,Aegislash (Shield Forme),stage 2
+681,Aegislash (Blade Forme),stage 2
+682,Spritzee,basic
+683,Aromatisse,stage 1
+684,Swirlix,basic
+685,Slurpuff,stage 1
+686,Inkay,basic
+687,Malamar,stage 1
+688,Binacle,basic
+689,Barbaracle,stage 1
+690,Skrelp,basic
+691,Dragalge,stage 1
+692,Clauncher,basic
+693,Clawitzer,stage 1
+694,Helioptile,basic
+695,Heliolisk,stage 1
+696,Tyrunt,basic
+697,Tyrantrum,stage 1
+698,Amaura,basic
+699,Aurorus,stage 1
+700,Sylveon,stage 1
+701,Hawlucha,basic
+702,Dedenne,basic
+703,Carbink,basic
+704,Goomy,basic
+705,Sliggoo,stage 1
+706,Goodra,stage 2
+707,Klefki,basic
+708,Phantump,basic
+709,Trevenant,stage 1
+710,Pumpkaboo (Small Size),basic
+710,Pumpkaboo (Average Size),basic
+710,Pumpkaboo (Large Size),basic
+710,Pumpkaboo (Super Size),basic
+711,Gourgeist (Small Size),stage 1
+711,Gourgeist (Average Size),stage 1
+711,Gourgeist (Large Size),stage 1
+711,Gourgeist (Super Size),stage 1
+712,Bergmite,basic
+713,Avalugg,stage 1
+714,Noibat,basic
+715,Noivern,stage 1
+716,Xerneas,legendary
+717,Yveltal,legendary
+718,Zygarde (50% Forme),legendary
+718,Zygarde (10% Forme),legendary
+718,Zygarde (Complete Forme),legendary
+719,Diancie,legendary
+719,Diancie (Mega Diancie),mega
+720,Hoopa (Hoopa Confined),legendary
+720,Hoopa (Hoopa Unbound),legendary
+721,Volcanion,legendary
+722,Rowlet,basic
+723,Dartrix,stage 1
+724,Decidueye,stage 2
+725,Litten,basic
+726,Torracat,stage 1
+727,Incineroar,stage 2
+728,Popplio,basic
+729,Brionne,stage 1
+730,Primarina,stage 2
+731,Pikipek,basic
+732,Trumbeak,stage 1
+733,Toucannon,stage 2
+734,Yungoos,basic
+735,Gumshoos,stage 1
+736,Grubbin,basic
+737,Charjabug,stage 1
+738,Vikavolt,stage 2
+739,Crabrawler,basic
+740,Crabominable,stage 1
+741,Oricorio,basic
+742,Cutiefly,basic
+743,Ribombee,stage 1
+744,Rockruff,basic
+745,Lycanroc (Midday Form),stage 1
+745,Lycanroc (Midnight Form),stage 1
+745,Lycanroc (Dusk Form),stage 1
+746,Wishiwashi (Solo Form),basic
+746,Wishiwashi (School Form),basic
+747,Mareanie,basic
+748,Toxapex,stage 1
+749,Mudbray,basic
+750,Mudsdale,stage 1
+751,Dewpider,basic
+752,Araquanid,stage 1
+753,Fomantis,basic
+754,Lurantis,stage 1
+755,Morelull,basic
+756,Shiinotic,stage 1
+757,Salandit,basic
+758,Salazzle,stage 1
+759,Stufful,basic
+760,Bewear,stage 1
+761,Bounsweet,basic
+762,Steenee,stage 1
+763,Tsareena,stage 2
+764,Comfey,basic
+765,Oranguru,basic
+766,Passimian,basic
+767,Wimpod,basic
+768,Golisopod,stage 1
+769,Sandygast,basic
+770,Palossand,stage 1
+771,Pyukumuku,basic
+772,Type: Null,legendary
+773,Silvally,legendary
+774,Minior (Meteor Form),basic
+774,Minior (Core Form),basic
+775,Komala,basic
+776,Turtonator,basic
+777,Togedemaru,basic
+778,Mimikyu,basic
+779,Bruxish,basic
+780,Drampa,basic
+781,Dhelmise,basic
+782,Jangmo-o,basic
+783,Hakamo-o,stage 1
+784,Kommo-o,stage 2
+785,Tapu Koko,legendary
+786,Tapu Lele,legendary
+787,Tapu Bulu,legendary
+788,Tapu Fini,legendary
+789,Cosmog,legendary
+790,Cosmoem,legendary
+791,Solgaleo,legendary
+792,Lunala,legendary
+793,Nihilego,ultra beast
+794,Buzzwole,ultra beast
+795,Pheromosa,ultra beast
+796,Xurkitree,ultra beast
+797,Celesteela,ultra beast
+798,Kartana,ultra beast
+799,Guzzlord,ultra beast
+800,Necrozma,legendary
+800,Necrozma (Dusk Mane),legendary
+800,Necrozma (Dawn Wings),legendary
+800,Necrozma (Ultra Necrozma),legendary
+801,Magearna,legendary
+802,Marshadow,legendary
+803,Poipole,ultra beast
+804,Naganadel,ultra beast
+805,Stakataka,ultra beast
+806,Blacephalon,ultra beast
+807,Zeraora,legendary
+808,Meltan,legendary
+809,Melmetal,legendary
